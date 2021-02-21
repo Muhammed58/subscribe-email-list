@@ -1,4 +1,4 @@
-# Subscribe to Email List
+# Subscribe to Email List With Node.js
 # First create your mailchimp account, get API key and list ID then follow the steps
 
 
